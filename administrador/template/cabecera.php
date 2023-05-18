@@ -16,7 +16,7 @@ if(!isset($_SESSION['usuario'])){
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Administrador Keez</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/index2.css">
 </head>
@@ -24,7 +24,7 @@ if(!isset($_SESSION['usuario'])){
 
     <?php $url = "http://" . $_SERVER['HTTP_HOST'] . "/keez"  ?>
 
-    <nav class="navbar navbar-expand navbar-light bg-warning">
+    <nav class="navbar navbar-expand navbar-light bg-warning justify-content-center">
         <div class="nav navbar-nav">
             <a class="nav-item nav-link" href="<?php echo $url;?>/administrador/inicio.php">Inicio</a>
             <a class="nav-item nav-link" href="<?php echo $url;?>/administrador/seccion/productos.php">Videojuegos</a>

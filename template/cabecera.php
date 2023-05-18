@@ -7,14 +7,11 @@
     <title>Keez</title>
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/index1.css">
-    <script src="./js/index.js"></script>
+    <script src="./js/productos.js"></script>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-fill">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-fill justify-content-center barranav">
         <ul class="nav navbar-nav">
-        <li class="nav-item">
-                <img src="./img/Logo.png" class="logo" alt="Logo" >
-            </li>
             <li class="nav-item">
                 <a class="nav-link" href="index.php">Inicio</a>
             </li>
@@ -22,10 +19,10 @@
                 <a class="nav-link" href="productos.php">Videojuegos</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="nosotros.php">Nosotros</a>
+                <a class="nav-link" href="nosotros.php">Acerca del proyecto</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="./administrador/index.php">Login</a>
+                <a class="nav-link" href="./administrador/index.php">Ir al administrador</a>
             </li>
             
         </ul>

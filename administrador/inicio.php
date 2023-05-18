@@ -1,5 +1,5 @@
 <?php include('template/cabecera.php'); ?>
-            <div class="col-md-12">
+            <div class="col-md-12 text-center" >
                 <div class="jumbotron">
                     <h1 class="display-3">Bienvenido <?php echo $nombreUsuario ?> </h1>
                     <p class="lead">Esta seccion es para administrar los juegos del sitio web</p>

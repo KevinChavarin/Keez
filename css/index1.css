@@ -1,5 +1,5 @@
 .logo{
-    width: 100px;
+    width: 300px;
     margin-left: 20px;
     padding: 0;
     border-radius: 10px;
@@ -11,4 +11,12 @@ body{
 .nav-text{
     display: flex;
     align-items: center;
+}
+
+.tarjeta{
+    margin-top: 10px;
+}
+.sticky{
+    background-color: rgb(55, 42, 78);
+    padding: 18px 0;
 }
