@@ -6,13 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Keez</title>
     <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/logo.css">
+    <link rel="stylesheet" href="./css/index1.css">
+    <script src="./js/index.js"></script>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-fill">
         <ul class="nav navbar-nav">
         <li class="nav-item">
-                <img src="./img/Logo.png" class="logo text-justify" alt="Logo" >
+                <img src="./img/Logo.png" class="logo" alt="Logo" >
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="index.php">Inicio</a>
@@ -26,6 +27,7 @@
             <li class="nav-item">
                 <a class="nav-link" href="./administrador/index.php">Login</a>
             </li>
+            
         </ul>
     </nav>
 
