@@ -10,7 +10,7 @@
     <script src="./js/productos.js"></script>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-fill justify-content-center barranav">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-fill justify-content-center">
         <ul class="nav navbar-nav">
             <li class="nav-item">
                 <a class="nav-link" href="index.php">Inicio</a>

@@ -2,11 +2,11 @@
 
     <div class="jumbotron text-center">
         <h1 class="display-3">Acerca</h1>
-        <p class="lead">Este proyecto fue desarrollado por Kevin Chavarin utilizando PHP, MySQL y Javascript</p>
+        <p class="lead">Este proyecto fue desarrollado por Kevin Chavarin utilizando Bootstrap, PHP y MySQL</p>
         <hr class="my-2">
-        <img src="./img/js.png" alt="">
+        <img src="./img/boot.png" class="boot" alt="">
         <img src="./img/php.png" alt="">
-        <img src="./img/sql.png" alt="">
+        <img src="./img/sql.png" class="sql" alt="">
         
     </div>
 

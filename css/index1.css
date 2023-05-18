@@ -17,6 +17,14 @@ body{
     margin-top: 10px;
 }
 .sticky{
-    background-color: rgb(55, 42, 78);
+    background-color: rgb(107, 83, 149);
     padding: 18px 0;
+}
+
+.boot{
+    width: 200px;
+}
+
+.sql{
+    width: 200px;
 }
